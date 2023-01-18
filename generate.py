@@ -111,9 +111,9 @@ def dumpapk(path):
 		for entry in manifest_entries:
 			if entry.element == 'application':
 				title = entry.attributes['label']
-	if title.startswith('Dashchan for '):
+	if title.startswith('DashchanFork for '):
 		title = title[13:]
-	elif title.startswith('Dashchan '):
+	elif title.startswith('DashchanFork '):
 		title = title[9:]
 	
 	fingerprints = []
@@ -220,7 +220,7 @@ relative_url_legacy = source_config['relative_url_legacy']
 for f in os.listdir('package'):
 	if f.endswith('.apk'):
 		title = f[:-4]
-		if title.startswith('Dashchan'):
+		if title.startswith('DashchanFork'):
 			title = title[8:]
 		source = os.path.join('package', f)
 		source_legacy = relative_url_legacy + source

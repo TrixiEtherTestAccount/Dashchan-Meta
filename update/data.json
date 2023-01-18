@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"repository": "Dashchan official releases"
+		"repository": "DashchanFork (un)official releases"
 	},
 	"client": [
 		{
@@ -11,7 +11,7 @@
 			"maxVersion": 1,
 			"minSdk": 16,
 			"length": 1863346,
-			"source": "//github.com/Mishiranu/Dashchan/releases/download/3.1.4/Dashchan.apk",
+			"source": "//github.com/TrixiEther/DashchanFork/releases/download/3.1.4-experimental-1.4/DashchanFork-release.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -23,7 +23,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 49382,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanAllchan.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanAllchan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -35,7 +35,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 20136,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanAlphachan.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanAlphachan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -47,7 +47,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 22579,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanAlterchan.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanAlterchan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -59,7 +59,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 52747,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanAnonfm.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanAnonfm.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -71,7 +71,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 24806,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanArchiveRbt.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanArchiveRbt.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -83,7 +83,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 32972,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanArhivach.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanArhivach.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -95,7 +95,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 22401,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanBrchan.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanBrchan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -107,7 +107,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 31802,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanBunbunmaru.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanBunbunmaru.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -119,7 +119,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 24167,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanChaosach.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanChaosach.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -131,7 +131,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 26195,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanChiochan.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanChiochan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -143,7 +143,7 @@
 			"version": 1,
 			"minSdk": 14,
 			"length": 58615,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanChuckDfwk.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanChuckDfwk.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -155,7 +155,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 36733,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanCirno.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanCirno.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -167,7 +167,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 15218,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanDangeru.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanDangeru.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -179,7 +179,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 26311,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanDesustorage.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanDesustorage.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -191,7 +191,7 @@
 			"version": 1,
 			"minSdk": 14,
 			"length": 56474,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanDiochan.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanDiochan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -203,7 +203,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 32009,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanDobrochan.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanDobrochan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -215,7 +215,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 62544,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanDvach.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanDvach.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -227,7 +227,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 25227,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanEndchan.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanEndchan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -239,7 +239,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 29698,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanErlach.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanErlach.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -251,7 +251,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 24300,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanExach.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanExach.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -263,7 +263,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 23540,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanFiftyfive.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanFiftyfive.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -275,7 +275,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 43476,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanFourchan.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanFourchan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -287,7 +287,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 20468,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanFourplebs.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanFourplebs.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -299,7 +299,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 24030,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanHaibane.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanHaibane.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -311,7 +311,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 17679,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanHorochan.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanHorochan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -323,7 +323,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 23228,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanKropyvach.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanKropyvach.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -335,7 +335,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 22079,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanKurisach.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanKurisach.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -347,7 +347,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 21015,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanLainchan.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanLainchan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -359,7 +359,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 17309,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanLocal.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanLocal.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -371,7 +371,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 27670,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanLolifox.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanLolifox.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -383,7 +383,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 23698,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanMoechannel.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanMoechannel.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -395,7 +395,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 32750,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanNowere.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanNowere.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -407,7 +407,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 23218,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanNulldvachin.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanNulldvachin.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -419,7 +419,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 25481,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanNulltirech.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanNulltirech.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -431,7 +431,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 27808,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanOnechanca.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanOnechanca.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -443,7 +443,7 @@
 			"version": 1,
 			"minSdk": 14,
 			"length": 57498,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanOwlchan.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanOwlchan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -455,7 +455,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 24122,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanPonyach.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanPonyach.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -467,7 +467,7 @@
 			"version": 1,
 			"minSdk": 14,
 			"length": 59417,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanPonychan.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanPonychan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -479,7 +479,7 @@
 			"version": 1,
 			"minSdk": 14,
 			"length": 53495,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanPrincessLuna.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanPrincessLuna.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -491,7 +491,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 15740,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanRandomArchive.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanRandomArchive.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -503,7 +503,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 24628,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanSevenchan.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanSevenchan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -515,7 +515,7 @@
 			"version": 1,
 			"minSdk": 14,
 			"length": 57050,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanShanachan.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanShanachan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -527,7 +527,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 21320,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanSynch.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanSynch.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -539,7 +539,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 24332,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanTaima.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanTaima.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -551,7 +551,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 22173,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanTiretirech.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanTiretirech.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -563,7 +563,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 21830,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanTwentySeven.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanTwentySeven.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -575,7 +575,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 22419,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanUboachan.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanUboachan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -587,7 +587,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 22343,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanValkyria.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanValkyria.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -599,7 +599,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 6905055,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanWebm.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanWebm.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -611,7 +611,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 22049,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanWizardchan.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanWizardchan.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	],
@@ -623,7 +623,7 @@
 			"version": 1,
 			"minSdk": 16,
 			"length": 33333,
-			"source": "/Mishiranu/Dashchan-Meta/master/update/package/DashchanYakujiMoe.apk",
+			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanYakujiMoe.apk",
 			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
 		}
 	]
