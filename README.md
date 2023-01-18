@@ -4,7 +4,7 @@ This repository is used to store DashchanFork packages and themes.
 
 ## Packages List
 
-Client application: [DashchanFork.apk](https://github.com/TrixiEther/Dashchan/releases/latest/download/Dashchan.apk).  
+Client application: [DashchanFork.apk](https://github.com/TrixiEther/DashchanFork/releases/download/3.1.4-experimental-1.4/DashchanFork-release.apk).  
 Video player libraries: [DashchanWebm.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanWebm.apk).
 
 ### Forums
