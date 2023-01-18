@@ -1,29 +1,29 @@
 {
-	"title": "Dashchan official releases",
+	"title": "DashchanFork (un)official releases",
 	"applications": [
 		{
 			"name": "client",
 			"type": "client",
-			"title": "Dashchan",
+			"title": "Dashchan'",
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "3.1.4",
-					"version_code": 1043,
+					"version_name": "3.1.4-experimental-1.4",
+					"version_code": 1048,
 					"min_api_version": 1,
 					"max_api_version": 1,
 					"min_sdk": 16,
-					"length": 1863346,
-					"source": "//github.com/Mishiranu/Dashchan/releases/download/3.1.4/Dashchan.apk",
-					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
-					"sha256sum": "10:EA:D1:5F:12:24:77:25:49:5D:3B:7D:F1:A7:01:94:9C:94:8B:12:F9:49:30:3F:CF:9D:60:3B:24:61:89:DF"
+					"length": 1927467,
+					"source": "//github.com/TrixiEther/DashchanFork/releases/download/3.1.4-experimental-1.4/DashchanFork-release.apk",
+					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
+					"sha256sum": "34:1C:50:59:5A:7B:F5:90:CC:F7:1A:FB:13:29:51:E3:16:94:38:67:E7:7F:84:84:6F:7D:3D:DA:4F:FD:91:73"
 				}
 			]
 		},
 		{
 			"name": "allchan",
 			"type": "chan",
-			"title": "allchan.su",
+			"title": "Dashchan for allchan.su'",
 			"packages": [
 				{
 					"title": "Release",
@@ -41,7 +41,7 @@
 		{
 			"name": "alphachan",
 			"type": "chan",
-			"title": "alphachan.org",
+			"title": "Dashchan for alphachan.org'",
 			"packages": [
 				{
 					"title": "Release",
@@ -59,7 +59,7 @@
 		{
 			"name": "alterchan",
 			"type": "chan",
-			"title": "alterchan.in",
+			"title": "Dashchan for alterchan.in'",
 			"packages": [
 				{
 					"title": "Release",
@@ -77,7 +77,7 @@
 		{
 			"name": "anonfm",
 			"type": "chan",
-			"title": "anon.fm",
+			"title": "Dashchan for anon.fm'",
 			"packages": [
 				{
 					"title": "Release",
@@ -95,7 +95,7 @@
 		{
 			"name": "archiverbt",
 			"type": "chan",
-			"title": "rbt.asia",
+			"title": "Dashchan for rbt.asia'",
 			"packages": [
 				{
 					"title": "Release",
@@ -131,7 +131,7 @@
 		{
 			"name": "brchan",
 			"type": "chan",
-			"title": "brchan.org",
+			"title": "Dashchan for brchan.org'",
 			"packages": [
 				{
 					"title": "Release",
@@ -167,7 +167,7 @@
 		{
 			"name": "chaosach",
 			"type": "chan",
-			"title": "chaos.cyberpunk.us",
+			"title": "Dashchan for chaos.cyberpunk.us'",
 			"packages": [
 				{
 					"title": "Release",
@@ -185,7 +185,7 @@
 		{
 			"name": "chiochan",
 			"type": "chan",
-			"title": "410chan.org",
+			"title": "Dashchan for 410chan.org'",
 			"packages": [
 				{
 					"title": "Release",
@@ -203,7 +203,7 @@
 		{
 			"name": "chuckdfwk",
 			"type": "chan",
-			"title": "chuck.dfwk.ru",
+			"title": "Dashchan for chuck.dfwk.ru'",
 			"packages": [
 				{
 					"title": "Release",
@@ -239,7 +239,7 @@
 		{
 			"name": "dangeru",
 			"type": "chan",
-			"title": "dangeru.us",
+			"title": "Dashchan for dangeru.us'",
 			"packages": [
 				{
 					"title": "Release",
@@ -257,7 +257,7 @@
 		{
 			"name": "desustorage",
 			"type": "chan",
-			"title": "desuarchive.org",
+			"title": "Dashchan for desuarchive.org'",
 			"packages": [
 				{
 					"title": "Release",
@@ -275,7 +275,7 @@
 		{
 			"name": "diochan",
 			"type": "chan",
-			"title": "diochan.com",
+			"title": "Dashchan for diochan.com'",
 			"packages": [
 				{
 					"title": "Release",
@@ -315,21 +315,21 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.43",
+					"version_name": "1.43-fix9",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 62544,
+					"length": 184907,
 					"source": "package/DashchanDvach.apk",
-					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
-					"sha256sum": "2C:9E:E8:8E:29:11:72:4E:AC:05:CF:C1:D1:25:44:56:A2:24:83:2D:09:B4:D1:7D:D1:B1:D7:6E:58:B9:C8:2D"
+					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
+					"sha256sum": "BE:42:B7:42:BA:EF:52:A1:97:44:A3:55:32:7B:51:E5:9B:D3:FB:9F:34:B9:D2:4B:52:DB:14:EB:3E:F8:9E:DE"
 				}
 			]
 		},
 		{
 			"name": "endchan",
 			"type": "chan",
-			"title": "endchan.net",
+			"title": "Dashchan for endchan.net'",
 			"packages": [
 				{
 					"title": "Release",
@@ -365,7 +365,7 @@
 		{
 			"name": "exach",
 			"type": "chan",
-			"title": "exach.com",
+			"title": "Dashchan for exach.com'",
 			"packages": [
 				{
 					"title": "Release",
@@ -383,7 +383,7 @@
 		{
 			"name": "fiftyfive",
 			"type": "chan",
-			"title": "55chan.org",
+			"title": "Dashchan for 55chan.org'",
 			"packages": [
 				{
 					"title": "Release",
@@ -419,7 +419,7 @@
 		{
 			"name": "fourplebs",
 			"type": "chan",
-			"title": "4plebs.org",
+			"title": "Dashchan for 4plebs.org'",
 			"packages": [
 				{
 					"title": "Release",
@@ -437,7 +437,7 @@
 		{
 			"name": "haibane",
 			"type": "chan",
-			"title": "haibane.ru",
+			"title": "Dashchan for haibane.ru'",
 			"packages": [
 				{
 					"title": "Release",
@@ -455,7 +455,7 @@
 		{
 			"name": "horochan",
 			"type": "chan",
-			"title": "horochan.ru",
+			"title": "Dashchan for horochan.ru'",
 			"packages": [
 				{
 					"title": "Release",
@@ -473,7 +473,7 @@
 		{
 			"name": "kropyvach",
 			"type": "chan",
-			"title": "kropyva.ch",
+			"title": "Dashchan for kropyva.ch'",
 			"packages": [
 				{
 					"title": "Release",
@@ -491,7 +491,7 @@
 		{
 			"name": "kurisach",
 			"type": "chan",
-			"title": "kurisa.ch",
+			"title": "Dashchan for kurisa.ch'",
 			"packages": [
 				{
 					"title": "Release",
@@ -509,7 +509,7 @@
 		{
 			"name": "lainchan",
 			"type": "chan",
-			"title": "lainchan.org",
+			"title": "Dashchan for lainchan.org'",
 			"packages": [
 				{
 					"title": "Release",
@@ -545,7 +545,7 @@
 		{
 			"name": "lolifox",
 			"type": "chan",
-			"title": "lolifox.org",
+			"title": "Dashchan for lolifox.org'",
 			"packages": [
 				{
 					"title": "Release",
@@ -599,7 +599,7 @@
 		{
 			"name": "nulldvachin",
 			"type": "chan",
-			"title": "02ch.in",
+			"title": "Dashchan for 02ch.in'",
 			"packages": [
 				{
 					"title": "Release",
@@ -617,7 +617,7 @@
 		{
 			"name": "nulltirech",
 			"type": "chan",
-			"title": "0-chan.ru",
+			"title": "Dashchan for 0-chan.ru'",
 			"packages": [
 				{
 					"title": "Release",
@@ -635,7 +635,7 @@
 		{
 			"name": "onechanca",
 			"type": "chan",
-			"title": "1chan.ca",
+			"title": "Dashchan for 1chan.ca'",
 			"packages": [
 				{
 					"title": "Release",
@@ -653,7 +653,7 @@
 		{
 			"name": "owlchan",
 			"type": "chan",
-			"title": "owlchan.ru",
+			"title": "Dashchan for owlchan.ru'",
 			"packages": [
 				{
 					"title": "Release",
@@ -671,7 +671,7 @@
 		{
 			"name": "ponyach",
 			"type": "chan",
-			"title": "ponyach.ru",
+			"title": "Dashchan for ponyach.ru'",
 			"packages": [
 				{
 					"title": "Release",
@@ -689,7 +689,7 @@
 		{
 			"name": "ponychan",
 			"type": "chan",
-			"title": "ponychan.net",
+			"title": "Dashchan for ponychan.net'",
 			"packages": [
 				{
 					"title": "Release",
@@ -707,7 +707,7 @@
 		{
 			"name": "princessluna",
 			"type": "chan",
-			"title": "princessluna.ru",
+			"title": "Dashchan for princessluna.ru'",
 			"packages": [
 				{
 					"title": "Release",
@@ -725,7 +725,7 @@
 		{
 			"name": "randomarchive",
 			"type": "chan",
-			"title": "randomarchive.org",
+			"title": "Dashchan for randomarchive.org'",
 			"packages": [
 				{
 					"title": "Release",
@@ -743,7 +743,7 @@
 		{
 			"name": "sevenchan",
 			"type": "chan",
-			"title": "7chan.org",
+			"title": "Dashchan for 7chan.org'",
 			"packages": [
 				{
 					"title": "Release",
@@ -761,7 +761,7 @@
 		{
 			"name": "shanachan",
 			"type": "chan",
-			"title": "shanachan.org",
+			"title": "Dashchan for shanachan.org'",
 			"packages": [
 				{
 					"title": "Release",
@@ -779,7 +779,7 @@
 		{
 			"name": "synch",
 			"type": "chan",
-			"title": "syn-ch.com",
+			"title": "Dashchan for syn-ch.com'",
 			"packages": [
 				{
 					"title": "Release",
@@ -797,7 +797,7 @@
 		{
 			"name": "taima",
 			"type": "chan",
-			"title": "420chan.org",
+			"title": "Dashchan for 420chan.org'",
 			"packages": [
 				{
 					"title": "Release",
@@ -815,7 +815,7 @@
 		{
 			"name": "tiretirech",
 			"type": "chan",
-			"title": "2--ch.ru",
+			"title": "Dashchan for 2--ch.ru'",
 			"packages": [
 				{
 					"title": "Release",
@@ -833,7 +833,7 @@
 		{
 			"name": "twentyseven",
 			"type": "chan",
-			"title": "27chan.org",
+			"title": "Dashchan for 27chan.org'",
 			"packages": [
 				{
 					"title": "Release",
@@ -851,7 +851,7 @@
 		{
 			"name": "uboachan",
 			"type": "chan",
-			"title": "uboachan.net",
+			"title": "Dashchan for uboachan.net'",
 			"packages": [
 				{
 					"title": "Release",
@@ -869,7 +869,7 @@
 		{
 			"name": "valkyria",
 			"type": "chan",
-			"title": "u18chan.com",
+			"title": "Dashchan for u18chan.com'",
 			"packages": [
 				{
 					"title": "Release",
@@ -905,7 +905,7 @@
 		{
 			"name": "wizardchan",
 			"type": "chan",
-			"title": "wizchan.org",
+			"title": "Dashchan for wizchan.org'",
 			"packages": [
 				{
 					"title": "Release",
