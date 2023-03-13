@@ -329,18 +329,18 @@
 		{
 			"name": "endchan",
 			"type": "chan",
-			"title": "Dashchan for endchan.net'",
+			"title": "endchan.net",
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.7",
+					"version_name": "1.7-experimental-1.0",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 25227,
+					"length": 25685,
 					"source": "package/DashchanEndchan.apk",
-					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
-					"sha256sum": "0A:87:F6:E4:59:AC:00:2C:CF:F7:E6:F8:B7:16:EE:57:2E:FA:BA:E3:AD:10:48:84:6F:21:AA:FD:2D:E6:D2:23"
+					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
+					"sha256sum": "53:40:D6:FB:F3:8D:2D:4D:27:74:35:87:47:7A:9C:5B:B4:7F:41:4B:A5:7B:97:E7:D7:A3:18:DE:97:86:9C:4C"
 				}
 			]
 		},
@@ -405,14 +405,14 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.27",
+					"version_name": "1.27-experimental-1.0",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 43476,
+					"length": 44863,
 					"source": "package/DashchanFourchan.apk",
-					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
-					"sha256sum": "23:6B:BF:8A:C4:5C:5D:6F:09:85:91:73:8F:FE:09:B2:74:ED:18:FC:9D:9E:40:C1:A7:D4:C1:B2:6A:0A:4C:CB"
+					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
+					"sha256sum": "12:6D:B9:3D:F2:13:CF:89:C4:A0:50:80:22:81:E0:75:E5:AE:12:4B:72:4D:F0:58:75:76:0F:B2:E4:D5:56:BB"
 				}
 			]
 		},

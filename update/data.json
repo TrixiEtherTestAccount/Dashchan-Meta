@@ -222,13 +222,13 @@
 	"endchan": [
 		{
 			"title": "Release",
-			"name": "1.7",
+			"name": "1.7-experimental-1.0",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 25227,
+			"length": 25685,
 			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanEndchan.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
+			"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF"
 		}
 	],
 	"erlach": [
@@ -270,13 +270,13 @@
 	"fourchan": [
 		{
 			"title": "Release",
-			"name": "1.27",
+			"name": "1.27-experimental-1.0",
 			"code": 1,
 			"version": 1,
 			"minSdk": 16,
-			"length": 43476,
+			"length": 44863,
 			"source": "/TrixiEther/Dashchan-Meta/master/update/package/DashchanFourchan.apk",
-			"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3"
+			"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF"
 		}
 	],
 	"fourplebs": [
