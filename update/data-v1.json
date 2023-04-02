@@ -225,14 +225,14 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.22",
+					"version_name": "1.22-experimental-1.0",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 36733,
+					"length": 38493,
 					"source": "package/DashchanCirno.apk",
-					"fingerprint": "5A:4F:61:FA:86:C3:64:34:70:81:A8:B3:18:49:53:DE:FC:CD:11:37:2E:93:59:93:89:D6:13:82:B4:7E:82:D3",
-					"sha256sum": "83:D5:16:31:C5:84:F3:4D:D8:C4:3A:F0:8E:40:84:E9:64:42:CF:45:C1:02:B4:5D:92:E5:06:69:A2:83:A9:93"
+					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
+					"sha256sum": "F7:4D:9C:40:26:8D:F8:9E:BB:15:56:30:03:75:AC:22:38:F5:74:DA:9E:C4:3A:B8:1D:7A:EE:35:24:50:3E:C0"
 				}
 			]
 		},
