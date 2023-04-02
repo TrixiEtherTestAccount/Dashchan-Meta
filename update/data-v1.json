@@ -777,6 +777,24 @@
 			]
 		},
 		{
+			"name": "sojakparty",
+			"type": "chan",
+			"title": "soyjak.party",
+			"packages": [
+				{
+					"title": "Release",
+					"version_name": "1.0",
+					"version_code": 1,
+					"api_version": 1,
+					"min_sdk": 16,
+					"length": 32134,
+					"source": "package/DashchanSojakparty.apk",
+					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
+					"sha256sum": "88:97:57:2C:B6:60:D7:7C:3B:6A:7C:46:6B:00:BE:53:52:08:B2:25:AD:B9:AB:B2:91:2D:87:61:F8:21:09:A1"
+				}
+			]
+		},
+		{
 			"name": "synch",
 			"type": "chan",
 			"title": "Dashchan for syn-ch.com'",
