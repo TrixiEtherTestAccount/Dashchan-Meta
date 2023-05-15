@@ -54,7 +54,8 @@ Video player libraries: [DashchanWebm.apk](https://github.com/TrixiEther/Dashcha
 | uboachan        | uboachan.net         | [DashchanUboachan.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanUboachan.apk)                       |
 | valkyria        | u18chan.com          | [DashchanValkyria.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanValkyria.apk)                       |
 | wizardchan      | wizchan.org          | [DashchanWizardchan.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanWizardchan.apk)                   |
-| sojak.party      | sojak.party          | [DashchanSojakparty.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanSojakparty.apk)                   |
+| sojak.party     | sojak.party          | [DashchanSojakparty.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanSojakparty.apk)     
+| rf.dobrochan.net| rf.dobrochan.net     | [DashchanRefugeDobrochan.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanRefugeDobrochan.apk)         |
 
 ### Archives
 
