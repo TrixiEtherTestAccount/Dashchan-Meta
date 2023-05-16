@@ -747,14 +747,14 @@
 			"packages": [
 				{
 					"title": "Release",
-					"version_name": "1.0",
+					"version_name": "1.1",
 					"version_code": 1,
 					"api_version": 1,
 					"min_sdk": 16,
-					"length": 43989,
+					"length": 44074,
 					"source": "package/DashchanRefugeDobrochan.apk",
 					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
-					"sha256sum": "B5:E3:9E:68:07:BA:DA:BE:9C:6D:4E:09:8A:27:C0:78:4F:77:5C:96:F0:FB:7F:0F:F2:61:F2:B7:55:4D:54:EA"
+					"sha256sum": "E9:DA:60:3F:9E:84:F4:63:08:89:55:B4:98:DF:8D:8D:3E:DF:4F:5E:08:EA:39:08:B3:FB:AB:1E:BA:76:23:67"
 				}
 			]
 		},
