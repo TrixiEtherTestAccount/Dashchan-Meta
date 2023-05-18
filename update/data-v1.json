@@ -93,6 +93,24 @@
 			]
 		},
 		{
+			"name": "archivedmoe",
+			"type": "chan",
+			"title": "archived.moe",
+			"packages": [
+				{
+					"title": "Release",
+					"version_name": "1.0",
+					"version_code": 1,
+					"api_version": 1,
+					"min_sdk": 16,
+					"length": 32787,
+					"source": "package/DashchanArchivedMoe.apk",
+					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
+					"sha256sum": "DA:C2:E6:7A:24:EA:59:53:20:71:87:01:5E:F4:73:2C:17:AE:5B:45:F7:C9:88:5F:5A:6D:F7:20:F2:48:6E:86"
+				}
+			]
+		},
+		{
 			"name": "archiverbt",
 			"type": "chan",
 			"title": "Dashchan for rbt.asia'",
