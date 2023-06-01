@@ -327,6 +327,24 @@
 			]
 		},
 		{
+			"name": "dollchan",
+			"type": "chan",
+			"title": "dollchan.net",
+			"packages": [
+				{
+					"title": "Release",
+					"version_name": "1.0",
+					"version_code": 1,
+					"api_version": 1,
+					"min_sdk": 16,
+					"length": 33108,
+					"source": "package/DashchanDollchan.apk",
+					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
+					"sha256sum": "66:5F:76:7A:71:4D:3F:0E:01:D1:2A:75:F4:E7:A0:36:F0:F7:17:AE:56:0A:FB:3A:44:6A:74:35:61:B9:5A:96"
+				}
+			]
+		},
+		{
 			"name": "dvach",
 			"type": "chan",
 			"title": "2ch.hk",
