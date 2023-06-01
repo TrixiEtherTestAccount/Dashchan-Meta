@@ -54,9 +54,9 @@ Video player libraries: [DashchanWebm.apk](https://github.com/TrixiEther/Dashcha
 | uboachan        | uboachan.net         | [DashchanUboachan.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanUboachan.apk)                       |
 | valkyria        | u18chan.com          | [DashchanValkyria.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanValkyria.apk)                       |
 | wizardchan      | wizchan.org          | [DashchanWizardchan.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanWizardchan.apk)                   |
-| sojak.party     | sojak.party          | [DashchanSojakparty.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanSojakparty.apk)     
+| sojak.party     | sojak.party          | [DashchanSojakparty.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanSojakparty.apk)                   |
 | rf.dobrochan.net| rf.dobrochan.net     | [DashchanRefugeDobrochan.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanRefugeDobrochan.apk)         |
-| archived.moe    | archived.moe         | [DashchanArchivedMoe.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanArchivedMoe.apk)  
+| Dollchan        | dollchan.net         | [DashchanDollchan.apk](https://github.com/TrixiEther/Dashchan-Meta/blob/master/update/package/DashchanDollchan.apk)                      |
 
 ### Archives
 
@@ -69,3 +69,4 @@ Video player libraries: [DashchanWebm.apk](https://github.com/TrixiEther/Dashcha
 | local           | ( local archive )    | [DashchanLocal.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanLocal.apk)                             |
 | randomarchive   | randomarchive.com    | [DashchanRandomArchive.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanRandomArchive.apk)             |
 | yakujimoe       | ii.yakuji.moe        | [DashchanYakujiMoe.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanYakujiMoe.apk)                     |
+| archived.moe    | archived.moe         | [DashchanArchivedMoe.apk](https://github.com/TrixiEther/Dashchan-Meta/raw/master/update/package/DashchanArchivedMoe.apk)                 |
