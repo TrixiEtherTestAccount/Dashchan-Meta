@@ -957,6 +957,24 @@
 			]
 		},
 		{
+			"name": "warosu",
+			"type": "chan",
+			"title": "warosu.org",
+			"packages": [
+				{
+					"title": "Release",
+					"version_name": "1.0",
+					"version_code": 1,
+					"api_version": 1,
+					"min_sdk": 16,
+					"length": 24941,
+					"source": "package/DashchanWarosu.apk",
+					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
+					"sha256sum": "BC:57:2B:6D:1F:86:AF:A1:8E:98:BA:4E:0E:9B:13:FF:C0:03:A6:8A:8A:39:C3:EC:2A:AA:08:08:DC:5D:4F:95"
+				}
+			]
+		},
+		{
 			"name": "webm",
 			"type": "library",
 			"title": "WebM libraries",
