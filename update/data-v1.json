@@ -27,7 +27,8 @@
 					"minSdk": 16,
 					"length": 1973304,
 					"source": "//github.com/TrixiEther/DashchanFork/releases/download/3.1.4-experimental-1.6.1/DashchanFork-release.apk",
-					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF"
+					"fingerprint": "77:C7:C9:20:0A:97:59:6D:83:21:42:6E:8A:43:3A:CC:FD:56:F5:EB:82:63:9F:ED:3E:46:8A:05:BC:2E:81:BF",
+					"sha256sum": "00:BB:9E:AF:95:0C:07:B6:8F:F2:BF:D4:9B:6B:2C:AC:A8:E4:B5:AB:76:90:AD:BC:AD:6B:A7:9F:C2:94:B3:4C"
 				}
 			]
 		},
