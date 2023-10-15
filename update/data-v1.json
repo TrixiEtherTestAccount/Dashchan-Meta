@@ -21,7 +21,7 @@
 				{
 					"title": "Prerelease",
 					"name": "3.1.4-experimental-1.6.3",
-					"code": 1052,
+					"code": 1054,
 					"minVersion": 1,
 					"maxVersion": 1,
 					"minSdk": 16,
